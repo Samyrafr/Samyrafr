@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<h1>## Hello Word!!! 👋</h1>
+
+<p>-> Me chamo Samyra</p>
+<p>-> Etec de Santa Isabel Mtec Informática</p>
 
 <!--
 **Samyrafr/Samyrafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
